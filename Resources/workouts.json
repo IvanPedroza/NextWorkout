@@ -1,0 +1,156 @@
+[
+    {
+        "id": "0f535b0c-de7a-444f-ae77-74b32c3ecf6c",
+        "name": "Monday",
+        "exercisesList": [
+            {
+                "id": "550e8400-e29b-41d4-a716-446655440000",
+                "name": "Push Up",
+                "imageName": "twinlake",
+                "notes": "Perform the pushup in a wide stance"
+            },
+            {
+                "id": "550e8400-e29b-41d4-a716-446655440001",
+                "name": "Pull Up",
+                "imageName": "twinlake",
+                "notes": "Perform the pull up with a wide grip"
+            }
+        ],
+        "focus": "Upper Body",
+        "notes": "Focus on form",
+        "category": "Strength",
+        "imageName": "twinlake"
+    },
+    {
+        "id": "43f2dea9-0173-4a2d-9bdf-12ff20f43f04",
+        "name": "Tuesday",
+        "exercisesList": [
+            {
+                "id": "44ea400b-b509-4b40-8f3b-54f412ca28f8",
+                "name": "Squat",
+                "imageName": "twinlake",
+                "notes": "how to perform it"
+            },
+            {
+                "id": "8c282618-0409-4cf9-bbb1-774e8cd5c16b",
+                "name": "Lunge",
+                "imageName": "twinlake",
+                "notes": "how to perform it"
+            }
+        ],
+        "focus": "Lower Body",
+        "notes": "Warm-up well",
+        "category": "Cardio",
+        "imageName": "twinlake"
+    },
+    {
+        "id": "0f535b0c-de7a-444f-ae77-74b32c3ecf6c",
+        "name": "Wednesday",
+        "exercisesList": [
+            {
+                "id": "550e8400-e29b-41d4-a716-446655440000",
+                "name": "Push Up",
+                "imageName": "twinlake",
+                "notes": "Perform the pushup in a wide stance"
+            },
+            {
+                "id": "550e8400-e29b-41d4-a716-446655440001",
+                "name": "Pull Up",
+                "imageName": "twinlake",
+                "notes": "Perform the pull up with a wide grip"
+            }
+        ],
+        "focus": "Upper Body",
+        "notes": "Focus on form",
+        "category": "Strength",
+        "imageName": "twinlake"
+    },
+    {
+        "id": "43f2dea9-0173-4a2d-9bdf-12ff20f43f04",
+        "name": "Thursday",
+        "exercisesList": [
+            {
+                "id": "44ea400b-b509-4b40-8f3b-54f412ca28f8",
+                "name": "Squat",
+                "imageName": "twinlake",
+                "notes": "how to perform it"
+            },
+            {
+                "id": "8c282618-0409-4cf9-bbb1-774e8cd5c16b",
+                "name": "Lunge",
+                "imageName": "twinlake",
+                "notes": "how to perform it"
+            }
+        ],
+        "focus": "Lower Body",
+        "notes": "Warm-up well",
+        "category": "Cardio",
+        "imageName": "twinlake"
+    },
+    {
+        "id": "0f535b0c-de7a-444f-ae77-74b32c3ecf6c",
+        "name": "Friday",
+        "exercisesList": [
+            {
+                "id": "550e8400-e29b-41d4-a716-446655440000",
+                "name": "Push Up",
+                "imageName": "twinlake",
+                "notes": "Perform the pushup in a wide stance"
+            },
+            {
+                "id": "550e8400-e29b-41d4-a716-446655440001",
+                "name": "Pull Up",
+                "imageName": "twinlake",
+                "notes": "Perform the pull up with a wide grip"
+            }
+        ],
+        "focus": "Upper Body",
+        "notes": "Focus on form",
+        "category": "Strength",
+        "imageName": "twinlake"
+    },
+    {
+        "id": "43f2dea9-0173-4a2d-9bdf-12ff20f43f04",
+        "name": "Saturday",
+        "exercisesList": [
+            {
+                "id": "44ea400b-b509-4b40-8f3b-54f412ca28f8",
+                "name": "Squat",
+                "imageName": "twinlake",
+                "notes": "how to perform it"
+            },
+            {
+                "id": "8c282618-0409-4cf9-bbb1-774e8cd5c16b",
+                "name": "Lunge",
+                "imageName": "twinlake",
+                "notes": "how to perform it"
+            }
+        ],
+        "focus": "Lower Body",
+        "notes": "Warm-up well",
+        "category": "Cardio",
+        "imageName": "twinlake"
+    },
+    {
+        "id": "0f535b0c-de7a-444f-ae77-74b32c3ecf6c",
+        "name": "Sunday",
+        "exercisesList": [
+            {
+                "id": "550e8400-e29b-41d4-a716-446655440000",
+                "name": "Push Up",
+                "imageName": "twinlake",
+                "notes": "Perform the pushup in a wide stance"
+            },
+            {
+                "id": "550e8400-e29b-41d4-a716-446655440001",
+                "name": "Pull Up",
+                "imageName": "twinlake",
+                "notes": "Perform the pull up with a wide grip"
+            }
+        ],
+        "focus": "Upper Body",
+        "notes": "Focus on form",
+        "category": "Strength",
+        "imageName": "twinlake"
+    }
+]

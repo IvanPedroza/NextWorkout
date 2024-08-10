@@ -1,0 +1,14 @@
+[
+    {
+        "id": "ef736627-f878-4ddc-a226-1d8b2980a6fc",
+        "setNumber": 1,
+        "weight": 150.0,
+        "repetitions": 10
+    },
+    {
+        "id": "7eaf83c0-6567-468b-8b1f-d304e2a4b9a7",
+        "setNumber": 2,
+        "weight": 100.0,
+        "repetitions": 12,
+    }
+]

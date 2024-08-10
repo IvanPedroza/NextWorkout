@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Bench Press",
+        "sets": 3,
+        "repetitions": 10,
+        "weight": 135,
+        "imageName": "twinlake",
+        "observations": [
+            {
+                "id": 1,
+                "setNumber": 1,
+                "weightUsed": 135,
+                "repetitionsCompleted": 10
+            },
+            {
+                "id": 2,
+                "setNumber": 2,
+                "weightUsed": 135,
+                "repetitionsCompleted": 10
+            },
+            {
+                "id": 3,
+                "setNumber": 3,
+                "weightUsed": 135,
+                "repetitionsCompleted": 10
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Squats",
+        "sets": 4,
+        "repetitions": 12,
+        "weight": 185,
+        "imageName": "twinlake",
+        "observations": [
+            {
+                "id": 1,
+                "setNumber": 1,
+                "weightUsed": 185,
+                "repetitionsCompleted": 12
+            },
+            {
+                "id": 2,
+                "setNumber": 2,
+                "weightUsed": 185,
+                "repetitionsCompleted": 12
+            },
+            {
+                "id": 3,
+                "setNumber": 3,
+                "weightUsed": 185,
+                "repetitionsCompleted": 12
+            },
+            {
+                "id": 4,
+                "setNumber": 4,
+                "weightUsed": 185,
+                "repetitionsCompleted": 12
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dumbbell Curls",
+        "sets": 3,
+        "repetitions": 15,
+        "weight": 25,
+        "imageName": "twinlake",
+        "observations": [
+            {
+                "id": 1,
+                "setNumber": 1,
+                "weightUsed": 25,
+                "repetitionsCompleted": 15
+            },
+            {
+                "id": 2,
+                "setNumber": 2,
+                "weightUsed": 25,
+                "repetitionsCompleted": 15
+            },
+            {
+                "id": 3,
+                "setNumber": 3,
+                "weightUsed": 25,
+                "repetitionsCompleted": 15
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Crunches",
+        "sets": 3,
+        "repetitions": 20,
+        "weight": 0,
+        "imageName": "twinlake",
+        "observations": [
+            {
+                "id": 1,
+                "setNumber": 1,
+                "weightUsed": 0,
+                "repetitionsCompleted": 20
+            },
+            {
+                "id": 2,
+                "setNumber": 2,
+                "weightUsed": 0,
+                "repetitionsCompleted": 20
+            },
+            {
+                "id": 3,
+                "setNumber": 3,
+                "weightUsed": 0,
+                "repetitionsCompleted": 20
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Treadmill",
+        "sets": 1,
+        "repetitions": 1,
+        "weight": 0,
+        "imageName": "twinlake",
+        "observations": [
+            {
+                "id": 1,
+                "setNumber": 1,
+                "weightUsed": 0,
+                "repetitionsCompleted": 1
+            }
+        ]
+    }
+]
+

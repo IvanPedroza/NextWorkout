@@ -1,0 +1,14 @@
+[
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "Push Up",
+        "imageName": "twinlake",
+        "notes": "Perform the pushup in a wide stance"
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440001",
+        "name": "Pull Up",
+        "imageName": "twinlake",
+        "notes": "Perform the pull up with a wide grip"
+    }
+]
